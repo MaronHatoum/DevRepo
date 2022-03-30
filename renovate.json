@@ -2,7 +2,7 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "rangeStrategy": "pin",
   "pinDigests": true,
-   "semanticCommitScope": "deps",
+  "semanticCommitScope": "deps",
   "stabilityDays": 3,
   "git-submodules": {
     "enabled": true
